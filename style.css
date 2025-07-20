@@ -1,0 +1,44 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family:Arial, Helvetica, sans-serif
+}
+
+.title {
+    background-color: rgb(59, 150, 59);
+    color: black;
+    padding: 10px;
+    margin: 10px;
+    border-style: double;
+}
+
+.description {
+    font-size: 20px;
+    margin: 10px;
+    margin-bottom: 30px;
+    margin-top: 25px;
+}
+
+.box {
+    background-color: darkgreen;
+    font-size: 25px;
+    font-weight: 700;
+    color: white;
+    padding: 10px;
+    margin: 10px;
+}
+
+.list{
+    font-size: 20px;
+    margin-top: 25px;
+    margin-left: 100px;
+}
+
+.may{
+    border-color: black;
+    background-color: pink;
+    width: 40px;
+    height: 25px;
+    display: inline-block;
+}
